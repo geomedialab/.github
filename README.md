@@ -1,3 +1,1 @@
-# testing testing
-
-123
+Repo for presenting an organization description on main page
